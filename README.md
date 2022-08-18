@@ -1,7 +1,7 @@
 # Hexerei Engine
 
 <p align="center">
-  <img source="HexereiPrototype.png"/>
+  <img src="HexereiPrototype.png"/>
 </p>
 
 ## 3D Linux-based Libre Game Engine
